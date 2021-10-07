@@ -1,0 +1,2 @@
+# ferris-exercise-167
+A program that lets the user shop for a meat gift package provided by the client. Program offers different menus to allow discounts and choices of gift package. Provides an item report after item selections and allows users to return to the main menu to change discounts. User's can continue shopping or quit via menu. User's will be given a final report upon quitting that gives counts for discount types, item types, and a grand total of all purchases.
